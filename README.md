@@ -3,19 +3,15 @@
 ## Description
 
 
-This is a password generator that will provide a password of any given length, with any provided criteria that the user wants.  This was built in the idea that users are going to want a secure password that is not easily hacked or detected.  By randomizing the criteria, this will give one password out of thousands of options for optimal security.  This project was built using JavaScript code and syntax.  More specifically "for loops" and "if statements."  
+This is a schedule for a typical workday.  The current time is shown at the top of the page. Each hour is color coded with what is coming up, the current hour, and the past hours. This is to keep track of a normal day to day and schudule events/projects. 
 
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
 
-This password generator is going to be used for anybody who is trying to create a secure password.  It is completely random, so not password is going to be the same.  They simply click on the "generate password" button and a new password will be deployed each time. 
+This schedule is going to use for anybody who is trying to schedule a normal day or a workday.  The user inputs what is happening at that current hour and will save it.  It is saved so that whenever a user opens the page back up, it is still there.  
 
 Here is a screenshot and link to the site: 
 
-![alt screenshot of website](./Develop/images/Screenshot%202022-07-25%20121226.png)
+![alt screenshot of website](./images/Screenshot%202022-08-08%20173019.png)
 
-[https://andrewhong23.github.io/password-generator/](https://andrewhong23.github.io/password-generator/)
+[https://andrewhong23.github.io/workday-schedule/](https://andrewhong23.github.io/workday-schedule/)
